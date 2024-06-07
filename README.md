@@ -1,4 +1,4 @@
-# VotingApp
+# Implemention a Voting Smart Contract using Solidity
 
 ## Overview
 A basic voting application implemented using Solidity. This smart contract allows users to vote for candidates in an election, with functionalities for adding candidates, casting votes, and viewing election results.
